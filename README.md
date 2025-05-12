@@ -13,6 +13,8 @@ Step 3: Move the Script to /usr/local/bin
 
 > sudo chmod +x /usr/local/bin/envsetup
 
+NOTE: Change directory name accordingly in above commands where the script is downloaded.
+
 Step 4: Test the Script
 - Navigate to any directory containing a requirements.txt file and run:
 > envsetup
